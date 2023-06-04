@@ -91,7 +91,8 @@ int main() {
 ```
 
 ## Output:
-![image](https://github.com/Prasannakumar019/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/75235090/741586c6-924f-4943-be83-e0969158962b)
+![image](https://github.com/sherwin-roger0/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/50732268/f1d4e4be-6746-4203-950a-4038d2df6820)
+
 
 
 ## Result:
